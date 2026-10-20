@@ -9,7 +9,7 @@ Description:
   onto a dual common-cathode 7-segment display.
 
 Programmer: 
-  Sergie D. Gomez
+  Althea Jane Cordova
 
 Date: 
   16 October 2026
